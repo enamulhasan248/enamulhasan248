@@ -47,22 +47,6 @@ I am a **Computer Science graduate (Cum Laude)** with a genuine passion for buil
 
 ---
 
-### 🚀 Featured Projects
-
-#### 🚌 **[Jatra: Smart City Bus Tracking](https://github.com/enamulhasan248/Jatra-A-Smart-City-Bus-Tracking-Navigation-System)**
-> *Native Android (Java) | Firebase | Cloud Functions*
-- Solved chronic public transit unpredictability in Dhaka.
-- Engineered a **location interpolation algorithm** to mitigate GPS "teleporting" glitches.
-- Reduced operational costs by utilizing **Firebase Realtime Database** over expensive Maps APIs.
-
-#### 🎓 **[UniEvent: Campus Event Management](https://github.com/enamulhasan248/UniEvent)**
-> *FastAPI (Python) | PostgreSQL | Angular | Bootstrap*
-- A full-stack system for managing university events with Role-Based Access Control (RBAC).
-- Engineered a **Real-time QR Code Attendance System** for instant ticket verification.
-- Designed responsive dashboards to track live seat capacity and analytics.
-
----
-
 ### 📊 GitHub Stats
 
 <div align="center">
