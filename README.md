@@ -49,7 +49,7 @@ I am a **Computer Science graduate (Cum Laude)** with a genuine passion for buil
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=enamulhasan248&show_icons=true&theme=radical&hide_border=true" height="180" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=enamulhasan248&show_icons=true&theme=dracula&hide_border=true" height="180" alt="stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enamulhasan248&layout=compact&theme=radical&hide_border=true" height="180" alt="languages" />
 </div>
 
