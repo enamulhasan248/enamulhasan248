@@ -26,7 +26,6 @@ I am a **Computer Science graduate (Cum Laude)** with a genuine passion for buil
 - 🔭 I’m currently working on **Advanced Full Stack Systems**
 - 🌱 I’m currently learning **Cloud Architecture & Scalable Systems**
 - 👯 I’m looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **Java, Python, Flutter, or React**
 
 ---
 
