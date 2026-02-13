@@ -21,7 +21,7 @@
 
 ### 👨‍💻 About Me
 
-I am a **Computer Science graduate (Cum Laude)** with a genuine passion for building efficient web and mobile applications. My technical focus is on **optimizing performance** across platforms, utilizing various frameworks to create seamless user experiences. 
+I am a **Computer Science graduate (Cum Laude)** with a genuine passion for building efficient web and mobile applications. My technical focus is on **optimizing performance** across platforms, utilizing various frameworks to create seamless user experiences. I primarily focus on the MERN stack for web applications and native Java for mobile applications. 
 
 - 🔭 I’m currently working on **Advanced Full Stack Systems**
 - 🌱 I’m currently learning **Cloud Architecture & Scalable Systems**
