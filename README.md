@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi%20there,%20I'm%20Enamul%20Hasan&fontSize=50&fontAlignY=40&desc=Software%20Engineer%20%7C%20Full%20Stack%20%7C%20Mobile%20Developer&descAlignY=60&descSize=20&animation=fadeIn" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi%20there,%20I'm%20Enamul%20Hasan&fontSize=50&fontAlignY=40&desc=Software%20Engineer%20%7C%20Full%20Stack%20%7C%20Application%20Developer&descAlignY=60&descSize=20&animation=fadeIn" alt="Header" />
 
   <br />
 
@@ -21,7 +21,7 @@
 
 ### 👨‍💻 About Me
 
-I am a **Computer Science graduate (Cum Laude)** with a genuine passion for building efficient web and mobile applications. My technical focus is on **optimizing performance** across platforms, utilizing various frameworks to create seamless user experiences. I primarily focus on the **MERN stack** for web applications and native Java for mobile applications. 
+I am a **Computer Science & Engineering graduate (Cum Laude)** with a genuine passion for building efficient web and mobile applications. My technical focus is on **optimizing performance** across platforms, utilizing various frameworks to create seamless user experiences. I primarily focus on the **MERN stack** for web applications and native Java for mobile applications. 
 
 - 🔭 I’m currently working on **Advanced Full Stack Systems**
 - 🌱 I’m currently learning **Cloud Architecture & Scalable Systems**
